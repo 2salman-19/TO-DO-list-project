@@ -1,5 +1,6 @@
 # TO-DO-list-project
 A simple To-Do List web application built with Flask and SQLAlchemy.
+Author - Salman Siddique
 
 ## Table of Contents
 
